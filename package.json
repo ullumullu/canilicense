@@ -1,0 +1,22 @@
+{
+  "name": "canilicense",
+  "version": "0.0.0",
+  "description": "License Analyser for package managers like NPM,Bower, ...",
+  "keywords": [
+    "license",
+    "npm",
+    "checker",
+    "package",
+    "manager"
+  ],
+  "author": "Sven Sterbling <sv.sterbling@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"TODO\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  }
+}
