@@ -42,3 +42,8 @@ jspm_packages
 
 # Output of 'npm pack'
 *.tgz
+
+.tmp/
+coverage/
+dist/
+node_modules/
